@@ -1,0 +1,3 @@
+# dotenv environment variable file
+.env
+.env.test
